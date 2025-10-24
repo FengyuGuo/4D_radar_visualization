@@ -16,10 +16,10 @@
   <arg name="max_range" default="130.0" />
   <arg name="firetime_file" default="$(find pandar_pointcloud)/params/Pandar128_Firetimes.csv"/>
   <arg name="min_range" default="0.5" />
-  <!-- <arg name="pcap" default="/media/guo/fs/4D_radar_dataset/Campus_1/campus1_lidar.pcap" />
-  <arg name="radar_dataset" default="/media/guo/fs/4D_radar_dataset/Campus_1/campus1.bag" /> -->
-  <arg name="pcap" default="/media/guo/fs/4D_radar_dataset/Parking_lot/parking_lot_lidar.pcap" />
-  <arg name="radar_dataset" default="/media/guo/fs/4D_radar_dataset/Parking_lot/parking_lot.bag" />
+  <arg name="pcap" default="/media/guo/fs/4D_radar_dataset/Campus_2/campus2_lidar.pcap" />
+  <arg name="radar_dataset" default="/media/guo/fs/4D_radar_dataset/Campus_2/campus2.bag" />
+  <!-- <arg name="pcap" default="/media/guo/fs/4D_radar_dataset/Parking_lot/parking_lot_lidar.pcap" />
+  <arg name="radar_dataset" default="/media/guo/fs/4D_radar_dataset/Parking_lot/parking_lot.bag" /> -->
   <arg name="port" default="2368" />
   <arg name="read_fast" default="false" />
   <arg name="read_once" default="false" />
